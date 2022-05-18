@@ -1,4 +1,4 @@
-package ProjetoDeRicardo;
+package Projeto;
 
 public class NomeGrupo {
 
